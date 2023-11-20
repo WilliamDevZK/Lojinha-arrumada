@@ -1,45 +1,43 @@
-{
-  "products": [
-    {
-      "product_image_desktop": "https://cdn-images.farfetch-contents.com/12/56/23/29/12562329_11915047_1000.jpg",
-      "product_image_tablet": "https://cdn-images.farfetch-contents.com/12/56/23/29/12562329_11915047_1000.jpg",
-      "product_image_mobile": "https://cdn-images.farfetch-contents.com/12/56/23/29/12562329_11915047_1000.jpg",
-      "product_label": "Gucci Bolsa GG marmonte",
-      "product_description": "A melhor bolsa da Gucci que você poderia querer.",
-      "product_price": "13990",
-      "product_promotional_price": "13990",
-      "seller_info": "Gucci",
-      "category": "Bolsas",
-      "tag01": "true",
-      "color": [
-        {
-          "name": "Preto"
-        },
-        {
-          "name": "Cinza"
-        },
-        {
-          "name": "Vermelho"
-        }
-      ],
-      "size": [
-        {
-          "name": "P"
-        },
-        {
-          "name": "PP"
-        },
-        {
-          "name": "M"
-        },
-        {
-          "name": "G"
-        },
-        {
-          "name": "GG"
-        }
-      ],
-      "id": 9
-    }
-  ]
-}
+[
+  {
+    "product_image_desktop": "https://media.pichau.com.br/media/catalog/product/cache/2f958555330323e505eba7ce930bdf27/m/c/mcr-tlt-rgb02_1.jpg",
+    "product_image_tablet": "https://media.pichau.com.br/media/catalog/product/cache/2f958555330323e505eba7ce930bdf27/m/c/mcr-tlt-rgb02_1.jpg",
+    "product_image_mobile": "https://media.pichau.com.br/media/catalog/product/cache/2f958555330323e505eba7ce930bdf27/m/c/mcr-tlt-rgb02_1.jpg",
+    "product_label": "HEADSET GAMER MANCER TWILIGHT, RAINBOW, DRIVERS 50MM, PRETO, MCR-TLT-RGB02",
+    "product_description": "O headset Mancer Twilight traz a união de conforto e estilo, seu visual em preto com detalhes de iluminação Rainbow nos earcups",
+    "product_price": "179,99",
+    "product_promotional_price": "179,99",
+    "seller_info": "Pichau",
+    "category": "Camisetas",
+    "tag01": "true",
+    "color": [
+      {
+        "name": "Preto"
+      },
+      {
+        "name": "Rosa"
+      },
+      {
+        "name": "Branco"
+      }
+    ],
+    "size": [
+      {
+        "name": "P"
+      },
+      {
+        "name": "PP"
+      },
+      {
+        "name": "M"
+      },
+      {
+        "name": "G"
+      },
+      {
+        "name": "GG"
+      }
+    ],
+    "id": 2
+  }
+]
