@@ -133,7 +133,7 @@ function deleteButtons(){
         
         if (event.target.classList.contains("delete_button")) {
             let idDelete = parseInt(event.target.getAttribute("id"));
-            if (idDelete < 7){ // Validação para não deletar os 6 primeiros produtos de teste
+            if (idDelete < 1){ // Validação para não deletar os 6 primeiros produtos de teste
                 alert ("Produto marcado como TESTE não pode ser deletado!");
             } else {
                 try {
@@ -160,7 +160,7 @@ function editButtons(){
         
         if (event.target.classList.contains("edit_button")) {
             let idEdit = parseInt(event.target.getAttribute("id"));
-            if (idEdit < 7){ // Validação para não editar os 6 primeiros produtos de teste
+            if (idEdit < 1){ // Validação para não editar os 6 primeiros produtos de teste
                 alert ("Produto marcado como TESTE não pode ser editado!");
             } else {
                 // saving idEdit on localestorage
